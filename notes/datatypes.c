@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <stdbool.h>
 
 int main() {
     // Strings = %s
@@ -22,7 +23,8 @@ int main() {
     printf("The character pie is equals to %lf\n", pie);
 
     // Boolean = %d
-    
+    bool isRed = true;
+    printf("Is the car red? %d", isRed);
 
     return 0;
 }
