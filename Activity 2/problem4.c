@@ -4,7 +4,7 @@ int main() {
     
     int num1, num2;
     char operator;
-    
+
     printf("Choose the operation you want to use:\n");
     printf("'+' = addition\n");
     printf("'-' = subtraction\n");
